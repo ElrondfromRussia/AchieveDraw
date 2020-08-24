@@ -1,2 +1,2 @@
 # AchieveDraw
-Python achievements drawe&amp;sender
+Python achievements drawer&amp;sender
